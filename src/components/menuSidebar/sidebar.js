@@ -20,6 +20,7 @@ class Sidebar extends React.Component{
                         <li> <a href={"https://demo.cocobasic.com/fabius-wp/demo-1/"}>EXPERIENCE</a></li>
                         <li> <a href={"https://demo.cocobasic.com/fabius-wp/demo-1/"}>TESTIMONIAL</a></li>
                         <li> <a href={"https://demo.cocobasic.com/fabius-wp/demo-1/"}>CONTACT</a></li>
+                        <li> <a href={"https://demo.cocobasic.com/fabius-wp/demo-1/"}>LOGIN TO ADMINISTRATOR</a></li>
                        
 
                     </ul>
